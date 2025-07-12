@@ -1,4 +1,16 @@
 # Task-Manager
+Key Features:
+1. User Authentication: Secure registration and login with JWT.
+
+2. Task CRUD: Create, read, update, and delete tasks.
+
+3. Task Filtering: Filter tasks by status (e.g., pending, completed).
+
+4. Responsive Design: Works on desktop, tablet, and mobile.
+
+5. Attractive UI: Styled with Tailwind CSS or custom CSS for a modern look.
+
+6. Error Handling: Friendly error messages and robust backend validation.
 
 # Task Manager Backend
 
